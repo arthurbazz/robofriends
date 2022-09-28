@@ -3,6 +3,12 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import 'tachyons';
+// importing fonts
+import './fonts/Odibee_Sans/OdibeeSans-Regular.ttf';
+import './fonts/game-of-squids-font/GameOfSquids-1GMVL.ttf';
+import './fonts/beautiful-people-font/BeautifulPeoplePersonalUse-dE0g.ttf';
+
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
